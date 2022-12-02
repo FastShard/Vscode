@@ -11,11 +11,10 @@
     "colorfulBackground.duration": 100000,
     "colorfulBackground.mode": "Light-NoontoDusk",
     "workbench.colorCustomizations": {
-        "editorSuggestWidget.background": "#0f0f0f", // widget bg
-        "editorSuggestWidget.selectedBackground": "#0f0f0f", // <-- this one -->
-        "editorSuggestWidget.highlightForeground": "#dadada", // 
+        "editorSuggestWidget.background": "#0f0f0f",
+        "editorSuggestWidget.selectedBackground": "#0f0f0f",
+        "editorSuggestWidget.highlightForeground": "#dadada",
         "editorSuggestWidget.border": "#000000",
-        // "window.activeBorder" : ",
         "textBlockQuote.border": "#0f0f0f",
         "textCodeBlock.background": "#0f0f0f",
         "toolbar.hoverOutline": "#0f0f0f",
